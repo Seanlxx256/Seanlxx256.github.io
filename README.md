@@ -5,4 +5,10 @@
 ### Activity 1
 ![Repository Screenshot](./homepage.png)
 
+### Activity 2
+![Repository Screenshot](./activity2repo.png)
+![Repository Screenshot](./activity2profile.png)
+
+
+
 
